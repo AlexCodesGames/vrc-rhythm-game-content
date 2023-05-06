@@ -1,0 +1,4 @@
+#TITLE:All Star;
+#ARTIST:Smash Mouth;
+#GENRE:Pop-Rock;
+#SELECTABLE:YES;
